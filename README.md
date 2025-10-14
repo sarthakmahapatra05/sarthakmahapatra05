@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 B.Tech in **Electronics and Communication Engineering** from Silicon University, Bhubaneswar (CGPA: 8.55)  
+- 🎓 B.Tech in **Electronics and Communication Engineering** from Silicon University, Bhubaneswar
 - 🧑‍💻 Passionate about building modern, responsive, and scalable web applications.  
 - 💼 Completed an internship at **CodeBeat** (June 2025)  
 - 🧠 I love learning new tech and contributing to open-source.  
@@ -47,25 +47,7 @@
 - 🖥️ [**ByteSweep**](https://github.com/sarthakmahapatra05/BYTESWEEP):  
   A MERN-based online system handling website with responsive UI and integrated backend.
 
-- 📝 [**To-Do Task App**](https://github.com/sarthakmahapatra05/TO-DO-TASK):  
-  A responsive task management app to track and manage daily goals efficiently.
+- 📝[**Symptocare **](https://github.com/sarthakmahapatra05/Symptocare):  
+  A medical care  app to track and manage daily health goals efficiently.
 
 ---
-
-### 🏅 Training
-
-
-<!--
-**sarthakmahapatra05/sarthakmahapatra05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
