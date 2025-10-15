@@ -47,7 +47,7 @@
 - 🖥️ [**ByteSweep**](https://github.com/sarthakmahapatra05/BYTESWEEP):  
   A MERN-based online system handling website with responsive UI and integrated backend.
 
-- 📝[**Symptocare **](https://github.com/sarthakmahapatra05/Symptocare):  
+- 🩺[Symptocare ](https://github.com/sarthakmahapatra05/Symptocare):  
   A medical care  app to track and manage daily health goals efficiently.
 
 ---
