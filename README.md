@@ -51,3 +51,8 @@
   A medical care  app to track and manage daily health goals efficiently.
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaprasaddas06&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
