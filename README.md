@@ -51,6 +51,15 @@
   A medical care  app to track and manage daily health goals efficiently.
 
 ---
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityaprasaddas06&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityaprasaddas06&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaprasaddas06&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
