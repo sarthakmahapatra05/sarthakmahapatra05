@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaprasaddas06&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakmahapatra05&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
