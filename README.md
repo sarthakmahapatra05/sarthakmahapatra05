@@ -9,16 +9,16 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 🎓 B.Tech in **Electronics and Communication Engineering** from Silicon University, Bhubaneswar
-- 🧑‍💻 Passionate about building modern, responsive, and scalable web applications.  
-- 💼 Completed an internship at **CodeBeat** (June 2025)  
-- 🧠 I love learning new tech and contributing to open-source.  
-- 📫 How to reach me: **sarthakmahapatra303@gmail.com**
+### 👨‍💻 About Me
+- 🎓 B.Tech in **Electronics and Communication Engineering** from Silicon University, Bhubaneswar  
+- 🧑‍💻 Passionate about creating modern, efficient & scalable web applications  
+- 💼 Completed internship at **CodeBeat** (June 2025)  
+- 🧠 Always exploring new tech and contributing to open-source  
+- 📫 Reach me: **sarthakmahapatra303@gmail.com**
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/sarthak-mahapatra-3b681a316" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
 <a href="mailto:sarthakmahapatra303@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Skills & Tools:
+### 🛠️ Skills & Tools
 <p align="left"> 
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
@@ -43,25 +43,26 @@
 
 ---
 
-### 🚀 Featured Projects:
-- 🖥️ [**ByteSweep**](https://github.com/sarthakmahapatra05/BYTESWEEP):  
-  A MERN-based online system handling website with responsive UI and integrated backend.
+### 🚀 Featured Projects
+- 🖥️ **[Vaccination Portal](https://github.com/sarthakmahapatra05/Vaccination_Portal)**  
+  MERN-based online system with responsive UI, contributed as a frontend developer for GSSOC'25.
 
-- 🩺[Symptocare ](https://github.com/sarthakmahapatra05/Symptocare):  
-  A medical care  app to track and manage daily health goals efficiently.
+- 🩺 **[Algo Trading Community](https://123algotrading.com/)**  
+  Contributed as UI designer for trading website UI.
 
 ---
-### 📊 GitHub Stats:
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakmahapatra05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakmahapatra05&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user= SarthakMahapatra05 &theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarthakmahapatra05&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakmahapatra05&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakmahapatra05&layout=compact&theme=tokyonight" />
 </p>
 
 ---
