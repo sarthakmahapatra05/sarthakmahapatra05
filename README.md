@@ -41,6 +41,7 @@
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
 </p>
 
 ---
