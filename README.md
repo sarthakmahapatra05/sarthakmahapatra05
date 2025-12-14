@@ -1,3 +1,5 @@
+<img src="./header.png.jpeg" alt="Header Banner" width="100%" />
+
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sarthak Mahapatra</h1>
 <h3 align="center">🚀 Aspiring Full Stack Web Developer | Electronics & Communication Engineer</h3>
