@@ -16,7 +16,7 @@
 - 🧑‍💻 Passionate about creating modern, efficient & scalable web applications  
 - 💼 Completed internship at **CodeBeat** (June 2025)  
 - 🧠 Always exploring new tech and contributing to open-source  
-- 📫 Reach me: **sarthakmahapatra303@gmail.com**
+- 📫 Reach me: **sarthakmahapatra303@gmail.com****https://sarthakmahapatraportfolio.netlify.app/**
 
 ---
 
