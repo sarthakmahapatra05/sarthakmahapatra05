@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/sarthak-mahapatra-3b681a316" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
 <a href="mailto:sarthakmahapatra303@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 <p align="left"> 
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
@@ -47,10 +47,10 @@
 ---
 
 ### Featured Projects
-- 🖥️ **[Vaccination Portal](https://github.com/sarthakmahapatra05/Vaccination_Portal)**  
+- **[Vaccination Portal](https://github.com/sarthakmahapatra05/Vaccination_Portal)**  
   MERN-based online system with responsive UI, contributed as a frontend developer for GSSOC'25.
 
-- 🩺 **[Algo Trading Community](https://123algotrading.com/)**  
+-  **[Algo Trading Community](https://123algotrading.com/)**  
   Contributed as UI designer for trading website UI.
 
 ---
