@@ -1,8 +1,8 @@
 <img src="./header.png.jpeg" alt="Header Banner" width="100%" />
 
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Sarthak Mahapatra</h1>
-<h3 align="center">🚀 Aspiring Full Stack Web Developer | Electronics & Communication Engineer</h3>
+<h1 align="center">Hi, I'm Sarthak Mahapatra</h1>
+<h3 align="center"> Aspiring Full Stack Web Developer | Electronics & Communication Engineer</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - 🎓 B.Tech in **Electronics and Communication Engineering** from Silicon University, Bhubaneswar  
 - 🧑‍💻 Passionate about creating modern, efficient & scalable web applications  
 - 💼 Completed internship at **CodeBeat** (June 2025)  
@@ -46,7 +46,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 - 🖥️ **[Vaccination Portal](https://github.com/sarthakmahapatra05/Vaccination_Portal)**  
   MERN-based online system with responsive UI, contributed as a frontend developer for GSSOC'25.
 
@@ -55,7 +55,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarthakmahapatra05&show_icons=true&theme=tokyonight" />
 </p>
