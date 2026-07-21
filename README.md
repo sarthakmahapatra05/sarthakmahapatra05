@@ -21,7 +21,7 @@
 Software Engineer specializing in full-stack systems, financial analytics, and AI-powered applications. Experienced in building scalable React, FastAPI, and PostgreSQL applications with Docker and cloud deployment, with a growing focus on backend systems, distributed architectures, and quantitative software engineering.
 
 - Currently a **Software Engineering Intern at AlgoTechInfo Services**, building a no-code algorithmic trading strategy builder and a full-stack risk analytics platform
-- B.Tech in **Electronics and Communication Engineering**, Silicon University, Bhubaneswar (CGPA 8.03/10, ongoing)
+- B.Tech in **Electronics and Communication Engineering**, Silicon University, Bhubaneswar
 - Building systems across the stack — from C++ backtesting engines to ML pipelines to production web deployments
 - Based in Bhubaneswar, Odisha, India
 
